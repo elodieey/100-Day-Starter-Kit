@@ -2,7 +2,7 @@
 ## Table des Matières
 À propos de l'autisme
 
-Pourquoi mon enfant at-il reçu un diagnostic d'autisme et que signifie-t-il?
+Pourquoi mon enfant a-t-il reçu un diagnostic d'autisme et que signifie-t-il?
 
 Pourquoi mon enfant a-t-il besoin d'un diagnostic d'autisme?
 
@@ -20,13 +20,13 @@ Capacités uniques pouvant accompagner l'autisme
 
 Problèmes physiques et médicaux pouvant accompagner l'autisme
 
-Vous, votre famille, et Autism
+Vous, votre famille, et l'autisme
 
 Comment vais-je faire face à ce diagnostic?
 
 Prendre soin de l'aidant
 
-Que devrions-nous savoir sur nos jeunes enfants ou futurs?
+Que devrions-nous savoir sur nos jeunes enfants ou nos futurs enfants?
 
 Comment cela affectera-t-il notre famille?
 
@@ -36,17 +36,17 @@ Partage ton combat avec la famille et les amis
 
 Jalons de développement: Comprendre le comportement de votre enfant
 
-Obtenir vos services pour enfants
+Obtenir des services pour votre enfant
 
 Comment puis-je obtenir l'aide dont mon enfant a besoin?
 
 Accès aux services: le droit de votre enfant à l'éducation publique
 
-Services Early Intervention (XX) pour les enfants de moins de 3 ans
+Services d'Intervention Précoce (IP) pour les enfants de moins de 3 ans
 
 Services d'éducation spécialisée pour les enfants âgés de 3 à 22 ans
 
-Comment démarrer les services pour mon enfant?
+Comment initier les services pour mon enfant?
 
 Autisme et assurance
 
@@ -74,11 +74,11 @@ Traitement pour les conditions biologiques et médicales associées à l'autisme
 
 Y a-t-il un remède?
 
-Fait en sorte que ça arrive
+Faire en sorte que cela se réalise
 
 Comment choisir la bonne intervention?
 
-Assembler votre équipe
+Rassembler votre équipe
 
 Technologie et autisme
 
